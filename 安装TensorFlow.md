@@ -1,4 +1,4 @@
-#MAC上基于VirtualEnv安装TensorFlow
+# MAC上基于VirtualEnv安装TensorFlow
 
 > TensorFlow是一个采用数据流图（data flow graphs），用于数值计算的开源软件库，一个用于人工智能的开源神器。
 
@@ -112,5 +112,5 @@ Hello, TensorFlow!
 
 解决方法：请先卸载pip uninstall protobuf，然后重新装一遍既可以使用。
 
-##总结
+## 总结
 至此你就成功安装了TensorFlow,开启你的TensorFlow研究学习之旅吧。
